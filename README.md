@@ -40,10 +40,11 @@ Linux OS (preferred)
 bash
 Copy
 Edit
-git clone https://github.com/your-username/nmap-payload-generator.git
-cd nmap-payload-generator
-chmod +x script_name.py
-python3 script_name.py
+git clone https://github.com/atharali-ansari/Nmap.git
+cd Nmap
+chmod +x "nmap linux.py"
+python3 "nmap linux.py"
+
 Replace script_name.py with the actual filename, e.g. nmap_generator.py.
 
 📸 Sample Screenshot
